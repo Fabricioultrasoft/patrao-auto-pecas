@@ -1,0 +1,9 @@
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\bin\Release\Conexao.dll
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\bin\Release\Conexao.pdb
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\obj\Release\Conexao.csprojResolveAssemblyReference.cache
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\obj\Release\Conexao.dll
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\obj\Release\Conexao.pdb
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\bin\Release\Conexao.dll
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\bin\Release\Conexao.pdb
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\obj\Release\Conexao.dll
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\obj\Release\Conexao.pdb

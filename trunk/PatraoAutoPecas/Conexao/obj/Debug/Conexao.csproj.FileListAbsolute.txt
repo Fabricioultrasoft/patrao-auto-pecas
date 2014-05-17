@@ -1,0 +1,4 @@
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\bin\Debug\Conexao.dll
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\bin\Debug\Conexao.pdb
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\obj\Debug\Conexao.dll
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\Conexao\obj\Debug\Conexao.pdb

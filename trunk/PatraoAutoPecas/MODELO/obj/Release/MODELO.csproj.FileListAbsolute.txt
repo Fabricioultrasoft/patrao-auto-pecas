@@ -1,0 +1,9 @@
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\bin\Release\MODELO.dll
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\bin\Release\MODELO.pdb
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\obj\Release\MODELO.csprojResolveAssemblyReference.cache
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\obj\Release\MODELO.dll
+H:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\obj\Release\MODELO.pdb
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\bin\Release\MODELO.dll
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\bin\Release\MODELO.pdb
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\obj\Release\MODELO.dll
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\obj\Release\MODELO.pdb

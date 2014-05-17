@@ -1,0 +1,4 @@
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\bin\Debug\MODELO.dll
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\bin\Debug\MODELO.pdb
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\obj\Debug\MODELO.dll
+I:\Desenvolvimento\PatraoAutoPecas\PatraoAutoPecas\MODELO\obj\Debug\MODELO.pdb
