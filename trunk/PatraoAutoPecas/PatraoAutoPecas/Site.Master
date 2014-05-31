@@ -80,7 +80,7 @@
                             <li class='last'><a href='#'><span>Sub Item</span></a></li>--%>
                         </ul>
                         </li>
-                        <li class='has-sub'><a href='#'><span>Clientes</span></a>
+                        <li class='has-sub'><a href="../UI/CadastroClientes.aspx"><span>Clientes</span></a>
                         <ul>
                             <%--<li><a href='#'><span>Sub Item</span></a></li>
                             <li class='last'><a href='#'><span>Sub Item</span></a></li>--%>
@@ -92,7 +92,7 @@
                             <li class='last'><a href='#'><span>Sub Item</span></a></li>--%>
                         </ul>
                         </li>
-                        <li class='has-sub'><a href='#'><span>Funcionários</span></a>
+                        <li class='has-sub'><a  href="../UI/CadastroFuncionarios.aspx"><span>Funcionários</span></a>
                         <ul>
                             <%--<li><a href='#'><span>Sub Item</span></a></li>
                             <li class='last'><a href='#'><span>Sub Item</span></a></li>--%>

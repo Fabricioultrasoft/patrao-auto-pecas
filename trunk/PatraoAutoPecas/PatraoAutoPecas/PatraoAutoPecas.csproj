@@ -241,8 +241,9 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="UI\CadastroClientes.aspx" />
+    <Content Include="UI\CadastroFuncionarios.aspx" />
     <Content Include="UI\CadastroProdutos.aspx" />
-    <Content Include="UI\PD.aspx" />
     <Content Include="UI\PDV.aspx" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config">
@@ -321,19 +322,26 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
+    <Compile Include="UI\CadastroClientes.aspx.cs">
+      <DependentUpon>CadastroClientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\CadastroClientes.aspx.designer.cs">
+      <DependentUpon>CadastroClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CadastroFuncionarios.aspx.cs">
+      <DependentUpon>CadastroFuncionarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\CadastroFuncionarios.aspx.designer.cs">
+      <DependentUpon>CadastroFuncionarios.aspx</DependentUpon>
+    </Compile>
     <Compile Include="UI\CadastroProdutos.aspx.cs">
       <DependentUpon>CadastroProdutos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="UI\CadastroProdutos.aspx.designer.cs">
       <DependentUpon>CadastroProdutos.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="UI\PD.aspx.cs">
-      <DependentUpon>PD.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="UI\PD.aspx.designer.cs">
-      <DependentUpon>PD.aspx</DependentUpon>
     </Compile>
     <Compile Include="UI\PDV.aspx.cs">
       <DependentUpon>PDV.aspx</DependentUpon>

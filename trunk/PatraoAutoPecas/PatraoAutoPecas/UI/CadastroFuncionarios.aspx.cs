@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace PatraoAutoPecas.UI
 {
-    public partial class PDV1 : System.Web.UI.Page
+    public partial class CadastroFuncionarios : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
